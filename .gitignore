@@ -2,4 +2,3 @@
 /dist/
 .wrangler
 src/worker/static-assets/public.ts
-
